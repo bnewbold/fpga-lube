@@ -1,0 +1,13 @@
+
+Great sources of FPGA knowledge!
+
+FPGAs!? Now What?
+  Free/Open FPGA-from-scratch tutorial from XESS. 140+ pages.
+  Pretty great!
+  Xilinx WebPack, VHDL, JTAG debug, Spartan.
+
+MIT 6.111 Labkit Manual
+  http://www-mtl.mit.edu/Courses/6.111/labkit/
+
+WikiBooks: Programmable Logic
+  http://en.wikibooks.org/wiki/Programmable_Logic

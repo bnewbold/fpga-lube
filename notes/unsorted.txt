@@ -1,0 +1,21 @@
+
+another set of xilinx makefiles
+  https://github.com/marvin2k/xilinx_makefile
+
+collection of tools
+  https://github.com/Ceasar/xilinx_sucks
+
+scons build scripts for xilinx
+  https://github.com/ewa/xilinx-build-scripts
+
+FPGALink JTAG-like thing
+  http://www.makestuff.eu/wordpress/software/fpgalink/
+
+Xillybus
+  Win/Linux PCI-e DMA IP core and kernel drivers. Proprietary
+  http://xillybus.com/licensing
+
+On-chip JTAG for softcores
+  http://moxielogic.org/blog/?p=704
+  from the Moxie processor project
+

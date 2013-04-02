@@ -1,0 +1,65 @@
+
+See also:
+
+https://github.com/JPNaude/X-MimeTypes/blob/master/eda_mime_types.xml
+http://www.xilinx.com/support/documentation/sw_manuals/xilinx14_4/cgn_r_core_generator_output_files.htm
+http://www.xilinx.com/support/documentation/sw_manuals/xilinx14_4/ise_r_source_types.htm
+
+also: devref.pdf (UG628)
+
+Extension   Description
+---------   --------------------------------------------------------------
+.par        "place and route" output
+.vhd        VHDL source code
+.v          Verilog source code
+.ucf        "constraints file": hardware pinouts, timing, etc
+.prj        [list of files in the project?]
+.wcfg       [waveform configuration (saved from gtkwave?]
+.srp        "Synthesis Report File"
+.xst        [xst settings?]
+.lso
+.vcf
+
+.bgn        bitgen report file
+.bit        Final FPGA bitstream file (binary)
+.xwbt
+.bld        Build report from NGDBuild
+.blc        NGDBuild report file
+.cmd_log
+.drc        Design rule check output
+.ncd
+.wdb
+.exe
+.map        [intermediate step]
+.mrp
+.ncd        [intermediate step? netlist?]
+.ngm
+.xrpt
+.par        [place and route output?]
+.pcf
+.ptwx
+.stx
+.syr
+.twr
+.twx
+.unroutes   unrouted traces; if routing was successful, there should be none
+.ut
+.xpi
+.log
+.xmsgs
+.gise
+.xise       ISE project/workplace
+
+.cgc        [coregen? used to programatically re-gen core?]
+.cgp        Coregen Project
+.ngc        Pre-compiled netlist
+.sym
+.asy        "Symbol file"
+_flist.txt  File list (?)
+.gise
+.ncf
+.sym
+.veo
+.vho
+.xco        [intermediate file?]
+

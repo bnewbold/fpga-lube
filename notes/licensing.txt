@@ -1,0 +1,8 @@
+
+Open Source Semiconductor Core Licensing
+    by Eli Greenbaum, Harvard Journal of Law and Technology, Fall 2011
+
+Xilinx SignOnce IP Licensing
+    http://www.xilinx.com/products/alliance/signonce.htm
+
+https://github.com/ewa/free-hdl-license/wiki

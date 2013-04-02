@@ -1,0 +1,14 @@
+
+QFSM finite state machine tool
+  http://qfsm.sourceforge.net/about.html
+  GUI for designing and documenting state machines. looks reasonably mature
+  generates verilog, vhdl, etc; C, java, ruby code (via ragel);
+  svg, png diagrams; text, html tables
+
+doxverilog
+  http://developer.berlios.de/projects/doxverilog/
+  doxygen for verilog
+
+Minimal Makefile for Xilinx WebPack
+  http://excamera.com/sphinx/fpga-makefile.html
+  from gameduino guy

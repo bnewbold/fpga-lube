@@ -1,0 +1,10 @@
+
+
+RED TIN on-chip logic analyser
+  http://siliconexposed.blogspot.com/2012/06/isim-bugs-and-introducing-red-tin.html
+  http://code.google.com/p/red-tin-logic-analyzer/
+  Use with gtkwave GUI
+
+sigrok
+  Soft real-time 
+
