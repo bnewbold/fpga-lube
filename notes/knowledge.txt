@@ -1,5 +1,5 @@
 
-Great sources of FPGA knowledge!
+Sources of FPGA knowledge?
 
 FPGAs!? Now What?
   Free/Open FPGA-from-scratch tutorial from XESS. 140+ pages.
@@ -9,5 +9,23 @@ FPGAs!? Now What?
 MIT 6.111 Labkit Manual
   http://www-mtl.mit.edu/Courses/6.111/labkit/
 
+RTL Hardware Design Using VHDL: Coding for Efficiency, Portability, and
+Scalability by Pong Chu
+
+Advanced FPGA Design: Architecture, Implementation, and Optimization by Steve
+Kilts
+
+FPGA Prototyping By Verilog Examples: Xilinx Spartan-3 Version by Pong Chu
+
+### More:
+
 WikiBooks: Programmable Logic
   http://en.wikibooks.org/wiki/Programmable_Logic
+
+Advanced Digital Design with the Verilog HDL by Michael Ciletti
+
+FPGA-based Implementation of Signal Processing Systems
+
+Understanding Digital Signal Processing
+
+
