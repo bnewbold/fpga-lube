@@ -1,0 +1,14 @@
+
+### CERN Open Hardware Repository
+
+### More
+
+OpenRISC
+CSAIL's Beehive
+milkymist (?)
+MIT 6.111 Course Examples
+OpenSparc
+Elphel
+Bitcoin Miner (?)
+netv
+

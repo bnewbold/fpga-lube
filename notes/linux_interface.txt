@@ -1,0 +1,12 @@
+
+UIO
+
+virtio, multiple cores
+    https://lwn.net/Articles/448562/
+
+vfio
+    https://lwn.net/Articles/474088/
+
+Linux Device Drivers, Third Edition
+    open, but old: https://lwn.net/Kernel/LDD3/
+
