@@ -6,9 +6,13 @@
 
 ### Repo Contents
 
-templates/
+
+docs/
+    Text source, style, and images which get compiled into the FPGA lube website
 
 notes/
-    tools.txt: list of helpful tools
+    Unsorted notes
 
+pinouts/
+    Standard header pinout spreadsheets
 
