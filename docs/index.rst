@@ -8,7 +8,9 @@ FPGA LUBE
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
+
+    xilinx_toolchain.rst
 
 About This Document
 ---------------------

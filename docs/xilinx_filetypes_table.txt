@@ -1,14 +1,7 @@
 
-See also:
-
-https://github.com/JPNaude/X-MimeTypes/blob/master/eda_mime_types.xml
-http://www.xilinx.com/support/documentation/sw_manuals/xilinx14_4/cgn_r_core_generator_output_files.htm
-http://www.xilinx.com/support/documentation/sw_manuals/xilinx14_4/ise_r_source_types.htm
-
-also: devref.pdf (UG628)
-
+=========== ==============================================================================
 Extension   Description
----------   --------------------------------------------------------------
+=========== ==============================================================================
 .par        "place and route" output
 .vhd        VHDL source code
 .v          Verilog source code
@@ -62,4 +55,5 @@ _flist.txt  File list (?)
 .veo
 .vho
 .xco        [intermediate file?]
+=========== ==============================================================================
 
