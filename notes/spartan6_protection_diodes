@@ -1,0 +1,11 @@
+
+(from Xula2 manual)
+
+However, by default, the Xilinx Spartan-6 FPGA disables the protection diodes.
+In order to enable these diodes, you can place the following text into your
+Xilinx ISE project constraint file for every I/O pin that will be connected to
+5V logic:
+
+    NET "input_name" IOSTANDARD = PCI66_3;
+
+Or you can use the Xilinx PlanAhead tool to set the I/O standa
